@@ -10,3 +10,4 @@ coloredlogs==15.0.1
 scikit-learn==1.0
 opencv-python==4.5.3.56
 nptyping==1.4.4
+gym==0.21.0
